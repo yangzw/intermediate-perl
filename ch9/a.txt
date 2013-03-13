@@ -1,0 +1,170 @@
+$VAR1 = {
+          'ch4' => {
+                     'try2.pl' => undef,
+                     'try1.pl' => undef,
+                     'ex4-2.pl' => undef
+                   },
+          'ch2' => {
+                     'ex2-1.pl' => undef,
+                     'ex2-1-1.pl' => undef,
+                     'try1.pl' => undef,
+                     'ex2-2.pl' => undef
+                   },
+          'ch5' => {
+                     'try3.pl' => undef,
+                     'list_ex2' => undef,
+                     'ex-2.pl' => undef,
+                     'try2.pl' => undef,
+                     'try1.pl' => undef,
+                     'list' => undef,
+                     'ex-1.pl' => undef
+                   },
+          'ch9' => {
+                     'try3.pl' => undef,
+                     '.try3.pl.swp' => undef,
+                     'ringmost.pl' => undef,
+                     'try2.pl' => undef,
+                     'try1.pl' => undef,
+                     'a.txt' => undef
+                   },
+          'README.md' => undef,
+          '.git' => {
+                      'info' => {
+                                  'exclude' => undef
+                                },
+                      'logs' => {
+                                  'refs' => {
+                                              'remotes' => {
+                                                             'origin' => {
+                                                                           'master' => undef
+                                                                         }
+                                                           },
+                                              'heads' => {
+                                                           'master' => undef
+                                                         }
+                                            },
+                                  'HEAD' => undef
+                                },
+                      'hooks' => {
+                                   'pre-rebase.sample' => undef,
+                                   'commit-msg.sample' => undef,
+                                   'prepare-commit-msg.sample' => undef,
+                                   'post-update.sample' => undef,
+                                   'applypatch-msg.sample' => undef,
+                                   'update.sample' => undef,
+                                   'pre-applypatch.sample' => undef,
+                                   'pre-commit.sample' => undef
+                                 },
+                      'HEAD' => undef,
+                      'description' => undef,
+                      'index' => undef,
+                      'refs' => {
+                                  'remotes' => {
+                                                 'origin' => {
+                                                               'master' => undef,
+                                                               'HEAD' => undef
+                                                             }
+                                               },
+                                  'heads' => {
+                                               'master' => undef
+                                             },
+                                  'tags' => {}
+                                },
+                      'objects' => {
+                                     'info' => {},
+                                     '3c' => {
+                                               'de0ebc8407ae10469bfc950545632258bde7ab' => undef
+                                             },
+                                     'ba' => {
+                                               '7a467a3cd80945d98f919400809986a7fb96e0' => undef,
+                                               'a92a89a2c2c0d77c63ecc0bbfb002b2ac9522b' => undef
+                                             },
+                                     'cf' => {
+                                               'de1a393084b5948dc44f3cee57ed3f08cdaaff' => undef
+                                             },
+                                     'c2' => {
+                                               '97c0978a17316f237a29979bcfa67e5aa3fffc' => undef
+                                             },
+                                     '26' => {
+                                               '2e60f662954c39887a447605bf31741c42af30' => undef
+                                             },
+                                     'c6' => {
+                                               '84051542adbf8f64beab2372a851c608c997d6' => undef
+                                             },
+                                     '04' => {
+                                               '6fa6bf1c212781a982d6062b179f12daf100d0' => undef
+                                             },
+                                     '14' => {
+                                               'e366e27c4b6e8a7035620dd4c3ca478d349e4f' => undef
+                                             },
+                                     '69' => {
+                                               '6bec72882baa375acd50d62c709421540d727f' => undef
+                                             },
+                                     'fe' => {
+                                               'c2f5d6d8b83b58899bcc9278d71a73191b5eb8' => undef
+                                             },
+                                     '46' => {
+                                               'cab42123b8b86c42ec5b69d186e26400195852' => undef
+                                             },
+                                     'pack' => {
+                                                 'pack-8bd6d43bb3ebd3bd7ef83cbcd0b67275d2842281.idx' => undef,
+                                                 'pack-8bd6d43bb3ebd3bd7ef83cbcd0b67275d2842281.pack' => undef
+                                               },
+                                     'e5' => {
+                                               'ebb37a16caefe4493c22540fb285b6bfb09bf5' => undef
+                                             },
+                                     '55' => {
+                                               '3cf0ab052015a4db9ae36164fce70bec116318' => undef
+                                             }
+                                   },
+                      'COMMIT_EDITMSG' => undef,
+                      'packed-refs' => undef,
+                      'branches' => {},
+                      'config' => undef
+                    },
+          'ch6' => {
+                     'try3.pl' => undef,
+                     'list_ex2' => undef,
+                     'some_file' => undef,
+                     'try2.pl' => undef,
+                     'try1.pl' => undef
+                   },
+          'q' => undef,
+          'ch7' => {
+                     'try3.pl' => undef,
+                     'ex-1.try.pl' => undef,
+                     'try2.pl' => undef,
+                     'ex7.1.pl' => undef,
+                     'try2-2.pl' => undef,
+                     'try2-1.pl' => undef,
+                     'try1.pl' => undef,
+                     'try1-1.pl' => undef
+                   },
+          'ch8' => {
+                     'try3.pl' => undef,
+                     'Gilligan.info' => undef,
+                     'b.input' => undef,
+                     'Professor.info' => undef,
+                     'tmp' => undef,
+                     'Mary-Ann.info' => undef,
+                     'Mrs. Howell.info' => undef,
+                     'ex8-1.pl.out' => undef,
+                     'try4.pl' => undef,
+                     'Mr. Howell.info' => undef,
+                     'ex8-1.pl' => undef,
+                     'Ginger.info' => undef,
+                     'data_file' => undef,
+                     'ex8-2.pl' => undef,
+                     'try2.pl' => undef,
+                     'a.input' => undef,
+                     'b.output' => undef,
+                     'Skipper.info' => undef,
+                     'a.output' => undef,
+                     'ex8-3.pl' => undef,
+                     'try1.pl' => undef
+                   },
+          'ch3' => {
+                     'ex3-2.pl' => undef,
+                     'ex3-1.pl' => undef
+                   }
+        };
